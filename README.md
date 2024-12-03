@@ -48,3 +48,8 @@ converts a string back into list from after being put through the function strin
 # matricies functions
 
 in my school i was taught matricies and to make sure i knew them i made these algorithms to calculate matricies, i have not been taught matricies beyond a 3x3, i feel like it's self explanatory how it goes beyond a 3x3 but i do not want to waste my time on making the functions work for any size matrix (the ones that require getting the minor of matrices) as i could very well just not know how to actually calculate them anyways
+
+# note()
+
+you need to make a file called "noteData.txt" in the same directory as the python file to use this, this isn't helpful so don't care much about it unless your curious
+this will take data and put it in encrypted format but...well the encryption is in the code and this is a public repository sooo................yeah sorta useless. if you wanna use it for quick note taking it does work though
